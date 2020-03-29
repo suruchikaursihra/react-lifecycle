@@ -30,7 +30,7 @@ class Lifecycle extends Component {
         } else {
             console.log("UPDATING getDerivedStateFromProps")
             return {
-                name: "ankit",
+                name: "alice",
                 age: "27"
             };
         }
